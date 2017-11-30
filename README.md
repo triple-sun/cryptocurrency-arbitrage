@@ -5,6 +5,9 @@ A cryptocurrency arbitrage opportunity calculator and trading bot. Over 800 curr
 
 To use, go to https://manu354.github.io/cryptocurrency-arbitrage/ , for development install nodejs ^V8.00 and run `npm install` in the folder where the script `main.js` is. To run the program write `node main` or `npm start`. To change market settings, and to add your own markets edit the `settings.js` file.
 
+## Notice: 
+I am now only focusing on the trading bot. Unfortunately I am going to keep that code private, and will not have time to work on this public version. Feel free to still make pull requests - I will still take a look at any issues when they pop up.
+
 ## Short term **roadmap** 
 
 **Hopefully all done within a month, faster with some help :)**
@@ -100,3 +103,8 @@ Feel free to suggest edits / pull requests or email me at manummasson8@gmail.com
 ## License
 
 See the [LICENSE.md](LICENSE.md) file for details
+
+## Donating
+
+BTC: 1DpMyyPoBSVNZqhM6d4k1TdYun1XpXaeMo
+LTC: LVXCvcV52unCdcqvyvKp6mC6AAVur1EZ57
